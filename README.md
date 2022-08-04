@@ -12,11 +12,9 @@
 <br/>  
 
 
-## My Skill Set  
+## Learn these things on these days  
 
-
-
-### learn these things on these days  
+ 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
