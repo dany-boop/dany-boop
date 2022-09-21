@@ -54,13 +54,6 @@
 
 <br/>  
 
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=dany-boop&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
 <div align="center">
             <a href="https://paypal.me/not added yet" target="_blank" style="display: inline-block;">
                 <img
