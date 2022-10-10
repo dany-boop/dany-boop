@@ -70,4 +70,4 @@
 <br />
 
 ----
-<div align="center">I <a href="https://profilinator.rishav.dev/" target="_blank">Love U</a></div>
+<div align="center">To infinity.... and Beyond</div>
