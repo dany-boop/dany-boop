@@ -4,10 +4,6 @@
   
 
 ### <div align="center">Dany is Hello 👾</div>  
-  
-
-- Trying get my money bag straight  
-  
 
 <br/>  
 
