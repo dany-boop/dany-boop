@@ -22,6 +22,7 @@
 
 
 ## Github Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ijlalWindhi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-boop&hide_border=true&layout=compact" align="center" /></div>  
 
 
