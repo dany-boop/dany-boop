@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://media3.giphy.com/media/l0HlSENTSibUgLjLa/200.webp?cid=ecf05e47vtyusmojc1iq40zuqkjtlp0icj444bsho9j0h7z0&rid=200.webp&ct=g" align="center" style="width: 50%" />
-</div>  
-  
 
 ### <div align="center">Dany is Hello 👾</div>  
 
