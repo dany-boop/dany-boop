@@ -1,6 +1,5 @@
 
 ### <div align="center">Dany is Hello 👾</div>  
-<div align="right"><a href="https://app.daily.dev/Dany666"><img src="https://api.daily.dev/devcards/216a9dd7e5ef48868a643a9308211324.png?r=1w2" width="400" alt="Dany's Dev Card"/></a></div>
 
 <br/>  
 
