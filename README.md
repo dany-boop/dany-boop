@@ -14,7 +14,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=v24ws2yitqfkhqnujt09us1kk&cover_image=true&theme=default&bar_color=00f004&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=v24ws2yitqfkhqnujt09us1kk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 <br/>  
 
